@@ -1,6 +1,6 @@
 {
   "name": "currency-symbol-wrap",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A module that can add currency symbol in front of string or returns currency symbol corresponding to currency code.",
   "main": "server.js",
   "scripts": {
