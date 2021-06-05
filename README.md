@@ -16,7 +16,6 @@ var cur = require('currency-symbol');
 `cur.getCurrencySymbol('CZK')`
 //Returns Kč
 
-```javascript
 ### METHODS
 
 - addCurrencySymbol<br>
