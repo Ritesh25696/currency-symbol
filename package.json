@@ -1,0 +1,27 @@
+{
+  "name": "currency-symbol-wrap",
+  "version": "1.0.0",
+  "description": "A module that can add currency symbol in front of string or returns currency symbol corresponding to currency code.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ritesh25696/currency-symbol.git"
+  },
+  "keywords": [
+    "currency",
+    "currency-symbol",
+    "currency-name",
+    "currency-icon",
+    "currency-label"
+  ],
+  "author": "Ritesh Chauhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ritesh25696/currency-symbol/issues"
+  },
+  "homepage": "https://github.com/Ritesh25696/currency-symbol#readme"
+}
