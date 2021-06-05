@@ -1,11 +1,11 @@
-# currency-symbol
+# currency-symbol-wrap
 A module that can add currency symbol in front of string or returns currency symbol corresponding to currency code.
 
 ## HOW TO INSTALL
-npm install currency-symbol --save
+npm install currency-symbol-wrap --save
 
 ## HOW TO USE
-var cur = require('currency-symbol');
+var cur = require('currency-symbol-wrap');
 
 `cur.addCurrencySymbol('123', 'USD')`
 //Returns $123
