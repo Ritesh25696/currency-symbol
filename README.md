@@ -5,7 +5,7 @@ A module that can add currency symbol in front of string or returns currency sym
 npm install currency-symbol-wrap --save
 
 ## HOW TO USE
-var cur = require('currency-symbol-wrap');
+`var cur = require('currency-symbol-wrap');`
 
 `cur.addCurrencySymbol('123', 'USD')`
 //Returns $123
